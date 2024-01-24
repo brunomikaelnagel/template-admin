@@ -1,0 +1,6 @@
+.container {
+    grid-area: conteudo;
+    padding: 10px 10px;
+    height: 100%;
+    width: 100%;
+}
