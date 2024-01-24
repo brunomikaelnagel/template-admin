@@ -1,36 +1,19 @@
-Template Admin com Firebase e Next.js
+# Template Admin com Autenticação Firebase e Next.js
 
-Este é um template de administração construído utilizando as seguintes tecnologias:
+Bem-vindo ao Template Admin com Autenticação Firebase e Next.js! Este é um projeto de template administrativo responsivo, desenvolvido para facilitar a criação de aplicações web administrativas modernas.
 
-- **Frontend:** Next.js
-- **Backend e Autenticação:** Firebase Authentication
-- **Banco de Dados:** Firebase Firestore (ou Realtime Database, conforme necessário)
+## Recursos
 
-**Recursos Principais:**
+- **Design Responsivo:** Interface adaptável a diferentes dispositivos.
+- **Autenticação Firebase:** Segura e escalável, com suporte para login com Google e e-mail/senha.
+- **Páginas Prontas:** Dashboard, gerenciamento de usuários e mais.
+- **Estrutura Baseada em Componentes:** Facilita a personalização e extensão.
+- **Implementação com Next.js:** Aproveita as vantagens do framework Next.js.
 
-1. **Autenticação:**
-   - Suporte para autenticação via Google
-   - Autenticação por e-mail/senha usando Firebase Authentication
+## Como Usar
 
-2. **Dashboard Administrativo:**
-   - Página inicial com visão geral das estatísticas e principais métricas
-   - Painéis interativos para monitoramento de dados
+Siga estas etapas para começar a usar o template em seu projeto:
 
-3. **Gestão de Usuários:**
-   - Lista de usuários registrados
-   - Detalhes do usuário e opções de administração
-
-4. **Integração com Firebase:**
-   - Configuração fácil com as credenciais do Firebase
-   - Utilização do Firestore para armazenar dados (ou Realtime Database conforme preferência)
-
-5. **Estilo Responsivo:**
-   - Design responsivo e amigável para dispositivos móveis
-
-**Instruções de Configuração:**
-
-1. Clone este repositório:
-
+1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/seu-usuario/template-admin-firebase-nextjs.git
