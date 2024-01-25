@@ -1,4 +1,3 @@
-
 // Components
 import LayoutApp from '@/components/LayoutApp'
 

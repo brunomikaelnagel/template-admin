@@ -79,7 +79,10 @@ export function AuthProvider({children} : {children: ReactNode} ){
             
             await configureSession(result.user)
             router.push("/")
-        } finally {
+        }catch(error){
+
+        }
+        finally {
             setLoading(false)
         }
     }

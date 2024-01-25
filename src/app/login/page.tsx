@@ -20,7 +20,7 @@ import ToastError from "@/components/ToastError"
 // Context
 import { useAuthContext } from "@/context/AuthContext"
 
-import imagem1 from "../../../public/imagem2.jpg"
+import imageLogin from "../../../public/imageLogin.jpg"
 
 
 function useLogin(){
@@ -73,7 +73,7 @@ export default function Login(){
     return(
         <div className={styles.container}>
             <div className={styles.imagem_area}>
-                <Image className={styles.imagem} src={imagem1} alt="Nuvens brancas dramáticas e céu azul da vista da janela do avião fundo colorido do pôr do sol cloudscape" />
+                <Image className={styles.imagem} src={imageLogin} alt="Nuvens brancas dramáticas e céu azul da vista da janela do avião fundo colorido do pôr do sol cloudscape" />
             </div>
             <div className={styles.login_area}>
                 {
